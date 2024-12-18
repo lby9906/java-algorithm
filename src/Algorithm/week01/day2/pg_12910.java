@@ -1,4 +1,4 @@
-package Algorithm.week02;
+package Algorithm.week01.day2;
 
 
 import java.util.Arrays;
