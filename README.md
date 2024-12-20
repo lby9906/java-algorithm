@@ -19,4 +19,6 @@
 | 2024.12.18 | 상위 n개 레코드             | https://school.programmers.co.kr/learn/courses/30/lessons/59405|
 | 2024.12.19 | 정수 제곱근 판별            | https://school.programmers.co.kr/learn/courses/30/lessons/12934|
 | 2024.12.19 | 가장 비싼 상품 구하기            | https://school.programmers.co.kr/learn/courses/30/lessons/131697|
+| 2024.12.20 | 서울에서 김서방 찾기            | https://school.programmers.co.kr/learn/courses/30/lessons/12919|
+| 2024.12.20 | 흉부외과 또는 일반외과 의사 목록 출력하기           | https://school.programmers.co.kr/learn/courses/30/lessons/132203|
 
