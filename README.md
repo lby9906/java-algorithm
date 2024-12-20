@@ -17,4 +17,6 @@
 | 2024.12.17 | 경기도에 위치한 식품창고 목록 출력하기 | https://school.programmers.co.kr/learn/courses/30/lessons/131114|
 | 2024.12.18 | 하샤드 수                 | https://school.programmers.co.kr/learn/courses/30/lessons/12947|
 | 2024.12.18 | 상위 n개 레코드             | https://school.programmers.co.kr/learn/courses/30/lessons/59405|
+| 2024.12.19 | 정수 제곱근 판별            | https://school.programmers.co.kr/learn/courses/30/lessons/12934|
+| 2024.12.19 | 가장 비싼 상품 구하기            | https://school.programmers.co.kr/learn/courses/30/lessons/131697|
 
