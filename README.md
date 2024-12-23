@@ -21,4 +21,6 @@
 | 2024.12.19 | 가장 비싼 상품 구하기            | https://school.programmers.co.kr/learn/courses/30/lessons/131697|
 | 2024.12.20 | 서울에서 김서방 찾기            | https://school.programmers.co.kr/learn/courses/30/lessons/12919|
 | 2024.12.20 | 흉부외과 또는 일반외과 의사 목록 출력하기           | https://school.programmers.co.kr/learn/courses/30/lessons/132203|
+| 2024.12.23 | 콜라츠 추측           | https://school.programmers.co.kr/learn/courses/30/lessons/12943|
+| 2024.12.23 | 이름이 없는 동물의 아이디           | https://school.programmers.co.kr/learn/courses/30/lessons/59039|
 
