@@ -25,4 +25,6 @@
 | 2024.12.23 | 이름이 없는 동물의 아이디           | https://school.programmers.co.kr/learn/courses/30/lessons/59039|
 | 2024.12.26 | 음양 더하기           | https://school.programmers.co.kr/learn/courses/30/lessons/76501|
 | 2024.12.26 | 강원도에 위치한 생산공장 목록 출력하기           | https://school.programmers.co.kr/learn/courses/30/lessons/131112|
+| 2024.12.30 | 없는 숫자 더하기           | https://school.programmers.co.kr/learn/courses/30/lessons/86051|
+| 2024.12.30 | 인기있는 아이스크림         | https://school.programmers.co.kr/learn/courses/30/lessons/133024|
 
