@@ -29,4 +29,6 @@
 | 2024.12.30 | 인기있는 아이스크림         | https://school.programmers.co.kr/learn/courses/30/lessons/133024|
 | 2024.12.31 | 내적         | https://school.programmers.co.kr/learn/courses/30/lessons/70128|
 | 2024.12.31 | 12세 이하인 여자 환자 목록 출력하기         | https://school.programmers.co.kr/learn/courses/30/lessons/132201|
+| 2025.01.02 | 수박수박수박수박수박수?         | https://school.programmers.co.kr/learn/courses/30/lessons/12922|
+| 2025.01.02 | 조건에 맞는 도서 리스트 출력하기         | https://school.programmers.co.kr/learn/courses/30/lessons/144853|
 
