@@ -33,4 +33,6 @@
 | 2025.01.02 | 조건에 맞는 도서 리스트 출력하기         | https://school.programmers.co.kr/learn/courses/30/lessons/144853|
 | 2025.01.03 | 가운데 글자 가져오기         | https://school.programmers.co.kr/learn/courses/30/lessons/12903|
 | 2025.01.03 | 과일로 만든 아이스크림 고르기         | https://school.programmers.co.kr/learn/courses/30/lessons/133025|
+| 2025.01.06 | 약수의 개수와 덧셈         | https://school.programmers.co.kr/learn/courses/30/lessons/77884|
+| 2025.01.06 | 모든 레코드 조회하기       | https://school.programmers.co.kr/learn/courses/30/lessons/59034|
 
