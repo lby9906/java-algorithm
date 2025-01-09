@@ -35,4 +35,7 @@
 | 2025.01.03 | 과일로 만든 아이스크림 고르기         | https://school.programmers.co.kr/learn/courses/30/lessons/133025|
 | 2025.01.06 | 약수의 개수와 덧셈         | https://school.programmers.co.kr/learn/courses/30/lessons/77884|
 | 2025.01.06 | 모든 레코드 조회하기       | https://school.programmers.co.kr/learn/courses/30/lessons/59034|
+| 2025.01.07 | 부족한 금액 계산하기       | https://school.programmers.co.kr/learn/courses/30/lessons/82612|
+| 2025.01.07 | 문자열 내림차순으로 배치하기       | https://school.programmers.co.kr/learn/courses/30/lessons/12917|
+| 2025.01.07 | 평균 일일 대여 요금 구하기       | https://school.programmers.co.kr/learn/courses/30/lessons/151136|
 
