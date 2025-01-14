@@ -44,4 +44,7 @@
 | 2025.01.10 | 특정 옵션이 포함된 자동차 리스트 구하기       | https://school.programmers.co.kr/learn/courses/30/lessons/157343|
 | 2025.01.13 | 삼총사       | https://school.programmers.co.kr/learn/courses/30/lessons/131705|
 | 2025.01.13 | 잡은 물고기 중 가장 큰 물고기의 길이 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/298515|
+| 2025.01.14 | 두 개 뽑아서 더하기        | https://school.programmers.co.kr/learn/courses/30/lessons/68644|
+| 2025.01.14 | Python 개발자 찾기       | https://school.programmers.co.kr/learn/courses/30/lessons/276013|
+| 2025.01.14 | 동물 수 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/59406|
 
