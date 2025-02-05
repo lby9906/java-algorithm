@@ -50,4 +50,7 @@
 | 2025.01.31 | 숫자 문자열과 영단어      | https://school.programmers.co.kr/learn/courses/30/lessons/81301|
 | 2025.01.31 | 최댓값 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/59415|
 | 2025.01.31 | 동명 동물 수 찾기      | https://school.programmers.co.kr/learn/courses/30/lessons/59041|
+| 2025.02.05 | 콜라 문제      | https://school.programmers.co.kr/learn/courses/30/lessons/132267|
+| 2025.02.05 | 잡은 물고기의 평균 길이 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/293259|
+| 2025.02.05 | 이름에 el이 들어가는 동물 찾기      | https://school.programmers.co.kr/learn/courses/30/lessons/59047|
 
