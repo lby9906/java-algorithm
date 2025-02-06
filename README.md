@@ -53,4 +53,7 @@
 | 2025.02.05 | 콜라 문제      | https://school.programmers.co.kr/learn/courses/30/lessons/132267|
 | 2025.02.05 | 잡은 물고기의 평균 길이 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/293259|
 | 2025.02.05 | 이름에 el이 들어가는 동물 찾기      | https://school.programmers.co.kr/learn/courses/30/lessons/59047|
+| 2025.02.06 | 푸드 파이트 대회      | https://school.programmers.co.kr/learn/courses/30/lessons/134240|
+| 2025.02.06 | 한 해에 잡은 물고기 수 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/298516|
+| 2025.02.06 | NULL 처리하기      | https://school.programmers.co.kr/learn/courses/30/lessons/59410|
 
