@@ -56,4 +56,7 @@
 | 2025.02.06 | 푸드 파이트 대회      | https://school.programmers.co.kr/learn/courses/30/lessons/134240|
 | 2025.02.06 | 한 해에 잡은 물고기 수 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/298516|
 | 2025.02.06 | NULL 처리하기      | https://school.programmers.co.kr/learn/courses/30/lessons/59410|
+| 2025.02.07 | 이상한 문자 만들기      | https://school.programmers.co.kr/learn/courses/30/lessons/12930|
+| 2025.02.07 | 자동차 대여 기록에서 장기/단기 대여 구분하기      | https://school.programmers.co.kr/learn/courses/30/lessons/151138|
+| 2025.02.07 | DATETIME에서 DATE로 형 변환      | https://school.programmers.co.kr/learn/courses/30/lessons/59414|
 
