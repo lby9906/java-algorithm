@@ -59,4 +59,7 @@
 | 2025.02.07 | 이상한 문자 만들기      | https://school.programmers.co.kr/learn/courses/30/lessons/12930|
 | 2025.02.07 | 자동차 대여 기록에서 장기/단기 대여 구분하기      | https://school.programmers.co.kr/learn/courses/30/lessons/151138|
 | 2025.02.07 | DATETIME에서 DATE로 형 변환      | https://school.programmers.co.kr/learn/courses/30/lessons/59414|
+| 2025.02.10 | 가장 가까운 같은 글자      | https://school.programmers.co.kr/learn/courses/30/lessons/142086|
+| 2025.02.10 | 가장 큰 물고기 10마리 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/298517|
+| 2025.02.10 | 가격이 제일 비싼 식품의 정보 출력하기      | https://school.programmers.co.kr/learn/courses/30/lessons/131115|
 
