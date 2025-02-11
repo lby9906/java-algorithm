@@ -62,4 +62,7 @@
 | 2025.02.10 | 가장 가까운 같은 글자      | https://school.programmers.co.kr/learn/courses/30/lessons/142086|
 | 2025.02.10 | 가장 큰 물고기 10마리 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/298517|
 | 2025.02.10 | 가격이 제일 비싼 식품의 정보 출력하기      | https://school.programmers.co.kr/learn/courses/30/lessons/131115|
+| 2025.02.11 | 문자열 내 마음대로 정렬하기      | https://school.programmers.co.kr/learn/courses/30/lessons/12915|
+| 2025.02.11 | 조건에 부합하는 중고거래 댓글 조회하기      | https://school.programmers.co.kr/learn/courses/30/lessons/164673|
+| 2025.02.11 | 조건에 맞는 아이템들의 가격의 총합 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/273709|
 
