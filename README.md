@@ -65,4 +65,7 @@
 | 2025.02.11 | 문자열 내 마음대로 정렬하기      | https://school.programmers.co.kr/learn/courses/30/lessons/12915|
 | 2025.02.11 | 조건에 부합하는 중고거래 댓글 조회하기      | https://school.programmers.co.kr/learn/courses/30/lessons/164673|
 | 2025.02.11 | 조건에 맞는 아이템들의 가격의 총합 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/273709|
+| 2025.02.12 | 행렬의 덧셈      | https://school.programmers.co.kr/learn/courses/30/lessons/12950|
+| 2025.02.12 | 특정 형질을 가지는 대장균 찾기      | https://school.programmers.co.kr/learn/courses/30/lessons/301646|
+| 2025.02.12 | 카테고리 별 상품 개수 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/131529|
 
