@@ -68,4 +68,7 @@
 | 2025.02.12 | 행렬의 덧셈      | https://school.programmers.co.kr/learn/courses/30/lessons/12950|
 | 2025.02.12 | 특정 형질을 가지는 대장균 찾기      | https://school.programmers.co.kr/learn/courses/30/lessons/301646|
 | 2025.02.12 | 카테고리 별 상품 개수 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/131529|
+| 2025.02.13 | 3진법 뒤집기      | https://school.programmers.co.kr/learn/courses/30/lessons/68935|
+| 2025.02.13 | 진료과별 총 예약 횟수 출력하기      | https://school.programmers.co.kr/learn/courses/30/lessons/132202|
+| 2025.02.13 | 고양이와 개는 몇 마리 있을까      | https://school.programmers.co.kr/learn/courses/30/lessons/59040|
 
