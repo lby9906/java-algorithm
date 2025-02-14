@@ -71,4 +71,7 @@
 | 2025.02.13 | 3진법 뒤집기      | https://school.programmers.co.kr/learn/courses/30/lessons/68935|
 | 2025.02.13 | 진료과별 총 예약 횟수 출력하기      | https://school.programmers.co.kr/learn/courses/30/lessons/132202|
 | 2025.02.13 | 고양이와 개는 몇 마리 있을까      | https://school.programmers.co.kr/learn/courses/30/lessons/59040|
+| 2025.02.14 | K번째수      | https://school.programmers.co.kr/learn/courses/30/lessons/42748|
+| 2025.02.14 | 중성화 여부 파악하기      | https://school.programmers.co.kr/learn/courses/30/lessons/59409|
+| 2025.02.14 | 입양 시각 구하기(1)      | https://school.programmers.co.kr/learn/courses/30/lessons/59412|
 
