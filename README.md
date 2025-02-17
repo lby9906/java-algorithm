@@ -74,4 +74,7 @@
 | 2025.02.14 | K번째수      | https://school.programmers.co.kr/learn/courses/30/lessons/42748|
 | 2025.02.14 | 중성화 여부 파악하기      | https://school.programmers.co.kr/learn/courses/30/lessons/59409|
 | 2025.02.14 | 입양 시각 구하기(1)      | https://school.programmers.co.kr/learn/courses/30/lessons/59412|
+| 2025.02.17 | 시저 암호      | https://school.programmers.co.kr/learn/courses/30/lessons/12926|
+| 2025.02.17 | 자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/151137|
+| 2025.02.17 | 조건에 맞는 도서와 저자 리스트 출력하기      | https://school.programmers.co.kr/learn/courses/30/lessons/144854|
 
