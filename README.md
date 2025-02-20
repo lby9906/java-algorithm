@@ -83,4 +83,7 @@
 | 2025.02.19 | 명예의 전당 (1)      | https://school.programmers.co.kr/learn/courses/30/lessons/138477|
 | 2025.02.19 | 3월에 태어난 여성 회원 목록 출력하기      | https://school.programmers.co.kr/learn/courses/30/lessons/131120|
 | 2025.02.19 | 루시와 엘라 찾기      | https://school.programmers.co.kr/learn/courses/30/lessons/59046|
+| 2025.02.20 | [1차] 비밀지도      | https://school.programmers.co.kr/learn/courses/30/lessons/17681|
+| 2025.02.20 | 가격대 별 상품 개수 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/131530|
+| 2025.02.20 | 물고기 종류 별 잡은 수 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/293257|
 
