@@ -80,4 +80,7 @@
 | 2025.02.18 | 최소직사각형      | https://school.programmers.co.kr/learn/courses/30/lessons/86491|
 | 2025.02.18 | 상품 별 오프라인 매출 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/131533|
 | 2025.02.18 | 성분으로 구분한 아이스크림 총 주문량      | https://school.programmers.co.kr/learn/courses/30/lessons/133026|
+| 2025.02.19 | 명예의 전당 (1)      | https://school.programmers.co.kr/learn/courses/30/lessons/138477|
+| 2025.02.19 | 3월에 태어난 여성 회원 목록 출력하기      | https://school.programmers.co.kr/learn/courses/30/lessons/131120|
+| 2025.02.19 | 루시와 엘라 찾기      | https://school.programmers.co.kr/learn/courses/30/lessons/59046|
 
