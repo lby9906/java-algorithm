@@ -86,4 +86,7 @@
 | 2025.02.20 | [1차] 비밀지도      | https://school.programmers.co.kr/learn/courses/30/lessons/17681|
 | 2025.02.20 | 가격대 별 상품 개수 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/131530|
 | 2025.02.20 | 물고기 종류 별 잡은 수 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/293257|
+| 2025.02.21 | 추억 점수      | https://school.programmers.co.kr/learn/courses/30/lessons/176963|
+| 2025.02.21 | 월별 잡은 물고기 수 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/293260|
+| 2025.02.21 | ROOT 아이템 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/273710|
 
