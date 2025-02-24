@@ -89,4 +89,7 @@
 | 2025.02.21 | 추억 점수      | https://school.programmers.co.kr/learn/courses/30/lessons/176963|
 | 2025.02.21 | 월별 잡은 물고기 수 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/293260|
 | 2025.02.21 | ROOT 아이템 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/273710|
+| 2025.02.24 | 기사단원의 무기      | https://school.programmers.co.kr/learn/courses/30/lessons/136798|
+| 2025.02.24 | 연도 별 평균 미세먼지 농도 조회하기      | https://school.programmers.co.kr/learn/courses/30/lessons/284530|
+| 2025.02.24 | 조건에 부합하는 중고거래 상태 조회하기      | https://school.programmers.co.kr/learn/courses/30/lessons/164672|
 
