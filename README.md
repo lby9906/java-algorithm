@@ -95,4 +95,7 @@
 | 2025.02.25 | 최댓값과 최솟값      | https://school.programmers.co.kr/learn/courses/30/lessons/12939|
 | 2025.02.25 | 조건에 맞는 사원 정보 조회하기      | https://school.programmers.co.kr/learn/courses/30/lessons/284527|
 | 2025.02.25 | 특정 물고기를 잡은 총 수 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/298518|
+| 2025.02.27 | 최솟값 만들기      | https://school.programmers.co.kr/learn/courses/30/lessons/12941|
+| 2025.02.27 | 재구매가 일어난 상품과 회원 리스트 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/131536|
+| 2025.02.27 | 자동차 평균 대여 기간 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/157342|
 
