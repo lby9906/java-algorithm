@@ -98,4 +98,6 @@
 | 2025.02.27 | 최솟값 만들기      | https://school.programmers.co.kr/learn/courses/30/lessons/12941|
 | 2025.02.27 | 재구매가 일어난 상품과 회원 리스트 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/131536|
 | 2025.02.27 | 자동차 평균 대여 기간 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/157342|
+| 2025.02.28 | JadenCase 문자열 만들기      | https://school.programmers.co.kr/learn/courses/30/lessons/12951|
+| 2025.02.28 | 분기별 분화된 대장균의 개체 수 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/299308|
 
