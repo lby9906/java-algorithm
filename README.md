@@ -100,4 +100,6 @@
 | 2025.02.27 | 자동차 평균 대여 기간 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/157342|
 | 2025.02.28 | JadenCase 문자열 만들기      | https://school.programmers.co.kr/learn/courses/30/lessons/12951|
 | 2025.02.28 | 분기별 분화된 대장균의 개체 수 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/299308|
+| 2025.03.04 | 이진 변환 반복하기      | https://school.programmers.co.kr/learn/courses/30/lessons/70129|
+| 2025.03.04 | 오랜 기간 보호한 동물(1)      | https://school.programmers.co.kr/learn/courses/30/lessons/59044|
 
