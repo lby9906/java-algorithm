@@ -102,4 +102,6 @@
 | 2025.02.28 | 분기별 분화된 대장균의 개체 수 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/299308|
 | 2025.03.04 | 이진 변환 반복하기      | https://school.programmers.co.kr/learn/courses/30/lessons/70129|
 | 2025.03.04 | 오랜 기간 보호한 동물(1)      | https://school.programmers.co.kr/learn/courses/30/lessons/59044|
+| 2025.03.07 | 조건별로 분류하여 주문상태 출력하기      | https://school.programmers.co.kr/learn/courses/30/lessons/131113|
+| 2025.03.07 | 카테고리 별 도서 판매량 집계하기      | https://school.programmers.co.kr/learn/courses/30/lessons/144855|
 
