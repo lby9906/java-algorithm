@@ -107,4 +107,6 @@
 | 2025.03.10 | 짝지어 제거하기      | https://school.programmers.co.kr/learn/courses/30/lessons/12973|
 | 2025.03.10 | 대여 기록이 존재하는 자동차 리스트 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/157341|
 | 2025.03.10 | 있었는데요 없었습니다      | https://school.programmers.co.kr/learn/courses/30/lessons/59043|
+| 2025.03.11 | 오랜 기간 보호한 동물(2)      | https://school.programmers.co.kr/learn/courses/30/lessons/59411|
+| 2025.03.11 | 조건에 맞는 사용자와 총 거래금액 조회하기      | https://school.programmers.co.kr/learn/courses/30/lessons/164668|
 
