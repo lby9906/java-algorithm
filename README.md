@@ -109,4 +109,6 @@
 | 2025.03.10 | 있었는데요 없었습니다      | https://school.programmers.co.kr/learn/courses/30/lessons/59043|
 | 2025.03.11 | 오랜 기간 보호한 동물(2)      | https://school.programmers.co.kr/learn/courses/30/lessons/59411|
 | 2025.03.11 | 조건에 맞는 사용자와 총 거래금액 조회하기      | https://school.programmers.co.kr/learn/courses/30/lessons/164668|
+| 2025.03.12 | 즐겨찾기가 가장 많은 식당 정보 출력하기      | https://school.programmers.co.kr/learn/courses/30/lessons/131123|
+| 2025.03.12 | 부서별 평균 연봉 조회하기      | https://school.programmers.co.kr/learn/courses/30/lessons/284529|
 
