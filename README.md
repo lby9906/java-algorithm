@@ -113,4 +113,6 @@
 | 2025.03.12 | 부서별 평균 연봉 조회하기      | https://school.programmers.co.kr/learn/courses/30/lessons/284529|
 | 2025.03.13 | 조건에 맞는 사용자 정보 조회하기      | https://school.programmers.co.kr/learn/courses/30/lessons/164670|
 | 2025.03.13 | 없어진 기록 찾기      | https://school.programmers.co.kr/learn/courses/30/lessons/59042|
+| 2025.03.14 | 대장균의 크기에 따라 분류하기 1      | https://school.programmers.co.kr/learn/courses/30/lessons/299307|
+| 2025.03.14 | 자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기      | https://school.programmers.co.kr/learn/courses/30/lessons/157340|
 
