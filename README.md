@@ -116,5 +116,7 @@
 | 2025.03.14 | 대장균의 크기에 따라 분류하기 1      | https://school.programmers.co.kr/learn/courses/30/lessons/299307|
 | 2025.03.14 | 자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기      | https://school.programmers.co.kr/learn/courses/30/lessons/157340|
 | 2025.03.17 | 조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기      | https://school.programmers.co.kr/learn/courses/30/lessons/164671|
-| 2025.03.17 | 헤비 유저가 소유한 장소      | https://school.programmers.co.kr/learn/courses/30/lessons/77487|
+| 2025.03.17 | 헤비 유저가 소유한 장소      | https://school.programmers.co.kr/learn/courses/30/lessons/298519|
+| 2025.03.18 | 특정 조건을 만족하는 물고기별 수와 최대 길이 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/77487|
+| 2025.03.18 | 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/151139|
 
