@@ -119,4 +119,6 @@
 | 2025.03.17 | 헤비 유저가 소유한 장소      | https://school.programmers.co.kr/learn/courses/30/lessons/298519|
 | 2025.03.18 | 특정 조건을 만족하는 물고기별 수와 최대 길이 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/77487|
 | 2025.03.18 | 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/151139|
+| 2025.03.19 | 대장균들의 자식의 수 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/299305|
+| 2025.03.19 | 물고기 종류 별 대어 찾기      | https://school.programmers.co.kr/learn/courses/30/lessons/293261|
 
