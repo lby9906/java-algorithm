@@ -121,4 +121,6 @@
 | 2025.03.18 | 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/151139|
 | 2025.03.19 | 대장균들의 자식의 수 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/299305|
 | 2025.03.19 | 물고기 종류 별 대어 찾기      | https://school.programmers.co.kr/learn/courses/30/lessons/293261|
+| 2025.03.20 | 보호소에서 중성화한 동물      | https://school.programmers.co.kr/learn/courses/30/lessons/59045|
+| 2025.03.20 | 식품분류별 가장 비싼 식품의 정보 조회하기      | https://school.programmers.co.kr/learn/courses/30/lessons/131116|
 
