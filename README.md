@@ -123,4 +123,6 @@
 | 2025.03.19 | 물고기 종류 별 대어 찾기      | https://school.programmers.co.kr/learn/courses/30/lessons/293261|
 | 2025.03.20 | 보호소에서 중성화한 동물      | https://school.programmers.co.kr/learn/courses/30/lessons/59045|
 | 2025.03.20 | 식품분류별 가장 비싼 식품의 정보 조회하기      | https://school.programmers.co.kr/learn/courses/30/lessons/131116|
+| 2025.03.21 | 5월 식품들의 총매출 조회하기      | https://school.programmers.co.kr/learn/courses/30/lessons/131117|
+| 2025.03.21 | 취소되지 않은 진료 예약 조회하기      | https://school.programmers.co.kr/learn/courses/30/lessons/132204|
 
