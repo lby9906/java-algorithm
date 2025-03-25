@@ -125,4 +125,6 @@
 | 2025.03.20 | 식품분류별 가장 비싼 식품의 정보 조회하기      | https://school.programmers.co.kr/learn/courses/30/lessons/131116|
 | 2025.03.21 | 5월 식품들의 총매출 조회하기      | https://school.programmers.co.kr/learn/courses/30/lessons/131117|
 | 2025.03.21 | 취소되지 않은 진료 예약 조회하기      | https://school.programmers.co.kr/learn/courses/30/lessons/132204|
+| 2025.03.25 | 서울에 위치한 식당 목록 출력하기      | https://school.programmers.co.kr/learn/courses/30/lessons/131118|
+| 2025.03.25 | 년, 월, 성별 별 상품 구매 회원 수 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/131532|
 
