@@ -127,4 +127,8 @@
 | 2025.03.21 | 취소되지 않은 진료 예약 조회하기      | https://school.programmers.co.kr/learn/courses/30/lessons/132204|
 | 2025.03.25 | 서울에 위치한 식당 목록 출력하기      | https://school.programmers.co.kr/learn/courses/30/lessons/131118|
 | 2025.03.25 | 년, 월, 성별 별 상품 구매 회원 수 구하기      | https://school.programmers.co.kr/learn/courses/30/lessons/131532|
+| 2025.03.26 | 저자 별 카테고리 별 매출액 집계하기      | https://school.programmers.co.kr/learn/courses/30/lessons/144856|
+| 2025.03.26 | 우유와 요거트가 담긴 장바구니      | https://school.programmers.co.kr/learn/courses/30/lessons/62284|
+| 2025.03.27 | 주문량이 많은 아이스크림들 조회하기      | https://school.programmers.co.kr/learn/courses/30/lessons/133027|
+| 2025.03.27 | 연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기      | https://school.programmers.co.kr/learn/courses/30/lessons/284528|
 
