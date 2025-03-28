@@ -131,4 +131,6 @@
 | 2025.03.26 | 우유와 요거트가 담긴 장바구니      | https://school.programmers.co.kr/learn/courses/30/lessons/62284|
 | 2025.03.27 | 주문량이 많은 아이스크림들 조회하기      | https://school.programmers.co.kr/learn/courses/30/lessons/133027|
 | 2025.03.27 | 연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기      | https://school.programmers.co.kr/learn/courses/30/lessons/284528|
+| 2025.03.28 | 그룹별 조건에 맞는 식당 목록 출력하기      | https://school.programmers.co.kr/learn/courses/30/lessons/131124|
+| 2025.03.28 | 오프라인/온라인 판매 데이터 통합하기      | https://school.programmers.co.kr/learn/courses/30/lessons/131537|
 
